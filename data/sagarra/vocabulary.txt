@@ -1,0 +1,418 @@
+Aves
+Canis familiaris
+Christian holidays
+Christian orders
+Corpus Christi
+Easter
+Equus asinus
+Equus caballus
+Fungi
+Furnishings
+Lent
+Panthera leo
+People
+Roman bath spaces
+Stations of the Cross
+Sus
+Weapons and Ammunition
+abbeys
+actors
+aerial views
+agricultural equipment
+agriculture
+agriculturists
+aircraft
+albums
+altars
+amusement parks
+amusement rides
+anniversaries
+apses
+arch, dome or vault components
+archaeological objects
+archaeological sites
+archaeologists
+archaeology
+architecture
+archives
+artificial water channels
+associations
+asylums
+automobile racing
+automobiles
+backdrops
+bakeries
+balances
+balconies
+balls
+bands
+banks
+banquets
+baptismal fonts
+barks
+barrels
+bars
+basilicas
+basketball
+baskets
+bastions
+bathers
+bathhouses
+bathing costumes
+bays
+beaches
+bell towers
+bicycles
+billiards
+books
+bookstores
+border inspection stations
+bottles
+bottling plants
+bridges
+buildings
+bunkhouses
+burials
+buses
+butcher shops
+cafés
+cameras
+camps
+capitals
+card games
+carpentry
+carriages
+castles
+cataracts
+cathedrals
+cattle
+caves
+ceramics
+chairs
+chalets
+channels
+chapels
+children
+chimneys
+choirs
+churches
+cinematography
+cities
+city walls
+cleaners
+clocks
+cloisters
+clothing
+clothing stores
+clowns
+coastal environments
+coastline
+columns
+commercial buildings
+community art
+company towns
+competitions
+concerts
+conferences
+construction
+construction workers
+convents
+cooks
+cork
+coves
+cowls
+cows
+cranes
+crosses
+crèches
+cult images
+cycling
+cyclists
+dams
+dance
+decoration
+demolition
+deserts
+distant views
+distilleries
+domes
+doors
+doves
+drawings
+dresses
+ducks
+dwellings
+elderly
+elephant
+engravings
+ensembles
+eucharists
+ewes
+excavations
+exhibitions
+factories
+families
+fancy dress
+fancy work
+farmhouses
+farming
+farmland
+façades
+festival marketplaces
+financial institutions
+fire extinguishing systems
+firefighters
+fish
+fishers
+fishing
+fishing tackle
+flags
+flocks
+flower
+folklore
+forests
+fortifications
+fountains
+funerals
+funicular railways
+furniture
+gambling casinos
+games
+garages
+gardens
+gargoyles
+gasworks
+girls
+goldsmithing
+golf
+golf courses
+governors
+granaries
+graves
+greenhouses
+group portraits
+guardhouses
+hats
+health resorts
+hens
+hermitages
+highways
+history
+hostels
+hotels
+houses
+housing developments
+ibexes
+inaugurations
+industries
+infants
+inscriptions
+instructional materials
+interior spaces
+interior walls
+islands
+jetties
+kings
+kiosks
+kitchen gardens
+kitchens
+lakes
+lambs
+landscapes
+launches
+laundresses
+lawyers
+leisure
+libraries
+life care communities
+light stations
+literary studies
+liturgical objects
+locomotives
+lodges
+lunchrooms
+machinery
+maps
+markets
+masters
+mayors
+meadows
+meetings
+men
+mesas
+metal
+military personnel
+military uniforms
+milk
+mills
+monarchies
+monasteries
+monuments
+mosaics
+mountains
+municipal buildings
+municipal lighting
+mural painting
+murders
+museums
+music
+musical instruments
+musicians
+newspapers
+nuns
+observatories
+offices
+oratories
+orchestras
+organs
+outdoor sculpture
+oxen
+painters
+paintings
+palaces
+papermaking
+parades
+parking lots
+parks
+parliament buildings
+parties
+paths
+patios
+paving stone
+pendants
+performing arts
+pew chairs
+pharmacy
+photographers
+photographs
+photography
+pilgrimages
+playgrounds
+politicians
+polo
+ponds
+portals
+portraits
+ports
+posters
+poultry
+powerhouses
+presidents
+priests
+printing plants
+processions
+psychiatric hospitals
+public buildings
+public institutions
+public services
+public works
+publicizing
+quarters
+racing
+railroad stations
+regattas
+relief
+religions
+religious art
+religious ceremonies
+religious holidays
+reproductions
+reservoirs
+restaurants
+retables
+retail stores
+rivers
+rock
+rooms
+ruins
+rural areas
+sabots
+sanctuaries
+sarcophagi
+sawyers
+scale models
+scholars
+school camps
+schools
+schoolyards
+sculptors
+sculpture
+seas
+sepulchers
+sepulchral monuments
+servers
+service industry buildings
+shepherds
+shields
+ships
+ski resorts
+skiing
+slaughterhouses
+snow
+soccer
+societies
+soldiers
+spectators
+sports
+sports complexes
+squares
+stairs
+stands
+statues
+steam engines
+storefronts
+straw
+street furniture
+street lighting luminaires
+streets
+students
+studio portraits
+summer camps
+swimming pools
+tapestries
+taxidermy
+teachers
+telephones
+tennis
+tennis clubs
+tents
+textile workers
+textile working equipment
+textiles
+tot lots
+tours
+towers
+towns
+toys
+trees
+trials
+trophies
+tunnels
+turntables
+umbrellas
+underwear and accessories for shaping and supporting
+uniforms
+universities
+urbanization
+vaults
+vendors
+veterans
+visual aids
+wagonettes
+walls
+warehouses
+wars
+washhouses
+watercraft
+wayside crosses
+weddings
+wells
+wetlands
+wheels
+windmills
+windows
+workers
+workshops
+yacht clubs
+youth
+zoos

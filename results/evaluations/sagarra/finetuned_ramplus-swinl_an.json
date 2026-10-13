@@ -1,0 +1,121 @@
+{
+ "predictions_file": "results/predictions/sagarra/finetuned_ramplus-swinl_an.jsonl.gz",
+ "dataset": "girona",
+ "n_folds": 5,
+ "semantic_threshold": 0.8,
+ "per_fold": [
+  {
+   "evaluated_images": 1251,
+   "concept_recall": 0.8200061747452918,
+   "image_hit_rate": 0.9680255795363709,
+   "unique_gt_coverage": 0.43609022556390975,
+   "combined_concept_recall": 0.8267983945662242,
+   "combined_image_hit_rate": 0.9680255795363709,
+   "combined_vocabulary_coverage": 0.462406015037594
+  },
+  {
+   "evaluated_images": 1251,
+   "concept_recall": 0.8221258134490239,
+   "image_hit_rate": 0.9672262190247801,
+   "unique_gt_coverage": 0.44363636363636366,
+   "combined_concept_recall": 0.8323520297489929,
+   "combined_image_hit_rate": 0.973621103117506,
+   "combined_vocabulary_coverage": 0.48
+  },
+  {
+   "evaluated_images": 1250,
+   "concept_recall": 0.8253358925143954,
+   "image_hit_rate": 0.9656,
+   "unique_gt_coverage": 0.5238095238095238,
+   "combined_concept_recall": 0.8336532309660909,
+   "combined_image_hit_rate": 0.968,
+   "combined_vocabulary_coverage": 0.5595238095238095
+  },
+  {
+   "evaluated_images": 1250,
+   "concept_recall": 0.8265113350125944,
+   "image_hit_rate": 0.9696,
+   "unique_gt_coverage": 0.44360902255639095,
+   "combined_concept_recall": 0.8369017632241813,
+   "combined_image_hit_rate": 0.9712,
+   "combined_vocabulary_coverage": 0.4774436090225564
+  },
+  {
+   "evaluated_images": 1250,
+   "concept_recall": 0.8209798994974874,
+   "image_hit_rate": 0.968,
+   "unique_gt_coverage": 0.4627450980392157,
+   "combined_concept_recall": 0.8310301507537688,
+   "combined_image_hit_rate": 0.9688,
+   "combined_vocabulary_coverage": 0.49019607843137253
+  }
+ ],
+ "aggregate": {
+  "concept_recall": {
+   "mean": 0.8229918230437586,
+   "std": 0.0028104061502877593,
+   "values": [
+    0.8200061747452918,
+    0.8221258134490239,
+    0.8253358925143954,
+    0.8265113350125944,
+    0.8209798994974874
+   ]
+  },
+  "image_hit_rate": {
+   "mean": 0.9676903597122302,
+   "std": 0.0014525844012691974,
+   "values": [
+    0.9680255795363709,
+    0.9672262190247801,
+    0.9656,
+    0.9696,
+    0.968
+   ]
+  },
+  "unique_gt_coverage": {
+   "mean": 0.4619780467210808,
+   "std": 0.03594348897252512,
+   "values": [
+    0.43609022556390975,
+    0.44363636363636366,
+    0.5238095238095238,
+    0.44360902255639095,
+    0.4627450980392157
+   ]
+  },
+  "combined_concept_recall": {
+   "mean": 0.8321471138518516,
+   "std": 0.003700455191575167,
+   "values": [
+    0.8267983945662242,
+    0.8323520297489929,
+    0.8336532309660909,
+    0.8369017632241813,
+    0.8310301507537688
+   ]
+  },
+  "combined_image_hit_rate": {
+   "mean": 0.9699293365307754,
+   "std": 0.002442629593562797,
+   "values": [
+    0.9680255795363709,
+    0.973621103117506,
+    0.968,
+    0.9712,
+    0.9688
+   ]
+  },
+  "combined_vocabulary_coverage": {
+   "mean": 0.4939139024030665,
+   "std": 0.03800031689944989,
+   "values": [
+    0.462406015037594,
+    0.48,
+    0.5595238095238095,
+    0.4774436090225564,
+    0.49019607843137253
+   ]
+  }
+ }
+}

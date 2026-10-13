@@ -1,0 +1,121 @@
+{
+ "predictions_file": "results/predictions/fairphotos/finetuned_ramplus-swinl_an.jsonl.gz",
+ "dataset": "fairphotos",
+ "n_folds": 5,
+ "semantic_threshold": 0.8,
+ "per_fold": [
+  {
+   "evaluated_images": 3586,
+   "concept_recall": 0.9431089743589743,
+   "image_hit_rate": 0.9461795872838817,
+   "unique_gt_coverage": 0.91875,
+   "combined_concept_recall": 0.9441773504273504,
+   "combined_image_hit_rate": 0.947016174010039,
+   "combined_vocabulary_coverage": 0.925
+  },
+  {
+   "evaluated_images": 3586,
+   "concept_recall": 0.9431066419687748,
+   "image_hit_rate": 0.9500836586726157,
+   "unique_gt_coverage": 0.9012345679012346,
+   "combined_concept_recall": 0.9449589838581636,
+   "combined_image_hit_rate": 0.9514779698828778,
+   "combined_vocabulary_coverage": 0.9012345679012346
+  },
+  {
+   "evaluated_images": 3586,
+   "concept_recall": 0.9330874604847208,
+   "image_hit_rate": 0.9403234802007808,
+   "unique_gt_coverage": 0.9119496855345912,
+   "combined_concept_recall": 0.934404636459431,
+   "combined_image_hit_rate": 0.9414389291689905,
+   "combined_vocabulary_coverage": 0.9119496855345912
+  },
+  {
+   "evaluated_images": 3586,
+   "concept_recall": 0.9332096474953617,
+   "image_hit_rate": 0.945064138315672,
+   "unique_gt_coverage": 0.874251497005988,
+   "combined_concept_recall": 0.935064935064935,
+   "combined_image_hit_rate": 0.9467373117679866,
+   "combined_vocabulary_coverage": 0.874251497005988
+  },
+  {
+   "evaluated_images": 3585,
+   "concept_recall": 0.9383399209486166,
+   "image_hit_rate": 0.9467224546722455,
+   "unique_gt_coverage": 0.89937106918239,
+   "combined_concept_recall": 0.9393939393939394,
+   "combined_image_hit_rate": 0.9475592747559275,
+   "combined_vocabulary_coverage": 0.89937106918239
+  }
+ ],
+ "aggregate": {
+  "concept_recall": {
+   "mean": 0.9381705290512896,
+   "std": 0.004980714764730634,
+   "values": [
+    0.9431089743589743,
+    0.9431066419687748,
+    0.9330874604847208,
+    0.9332096474953617,
+    0.9383399209486166
+   ]
+  },
+  "image_hit_rate": {
+   "mean": 0.9456746638290392,
+   "std": 0.003528454211933809,
+   "values": [
+    0.9461795872838817,
+    0.9500836586726157,
+    0.9403234802007808,
+    0.945064138315672,
+    0.9467224546722455
+   ]
+  },
+  "unique_gt_coverage": {
+   "mean": 0.9011113639248407,
+   "std": 0.016978567031828477,
+   "values": [
+    0.91875,
+    0.9012345679012346,
+    0.9119496855345912,
+    0.874251497005988,
+    0.89937106918239
+   ]
+  },
+  "combined_concept_recall": {
+   "mean": 0.9395999690407639,
+   "std": 0.004931326448820089,
+   "values": [
+    0.9441773504273504,
+    0.9449589838581636,
+    0.934404636459431,
+    0.935064935064935,
+    0.9393939393939394
+   ]
+  },
+  "combined_image_hit_rate": {
+   "mean": 0.9468459319171643,
+   "std": 0.0035791442115112714,
+   "values": [
+    0.947016174010039,
+    0.9514779698828778,
+    0.9414389291689905,
+    0.9467373117679866,
+    0.9475592747559275
+   ]
+  },
+  "combined_vocabulary_coverage": {
+   "mean": 0.9023613639248408,
+   "std": 0.01874046360656978,
+   "values": [
+    0.925,
+    0.9012345679012346,
+    0.9119496855345912,
+    0.874251497005988,
+    0.89937106918239
+   ]
+  }
+ }
+}

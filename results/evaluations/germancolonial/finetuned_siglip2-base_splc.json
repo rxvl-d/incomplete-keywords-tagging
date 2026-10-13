@@ -1,0 +1,121 @@
+{
+ "predictions_file": "results/predictions/germancolonial/finetuned_siglip2-base_splc.jsonl.gz",
+ "dataset": "testset",
+ "n_folds": 5,
+ "semantic_threshold": 0.8,
+ "per_fold": [
+  {
+   "evaluated_images": 7569,
+   "concept_recall": 0.5124588002636783,
+   "image_hit_rate": 0.8152992469282601,
+   "unique_gt_coverage": 0.39429444727457974,
+   "combined_concept_recall": 0.5494616567787299,
+   "combined_image_hit_rate": 0.8421191702999076,
+   "combined_vocabulary_coverage": 0.44065206316861943
+  },
+  {
+   "evaluated_images": 7569,
+   "concept_recall": 0.5359900594656963,
+   "image_hit_rate": 0.8277183247456732,
+   "unique_gt_coverage": 0.4410723318158826,
+   "combined_concept_recall": 0.5726457797106594,
+   "combined_image_hit_rate": 0.8505747126436781,
+   "combined_vocabulary_coverage": 0.4815376833586242
+  },
+  {
+   "evaluated_images": 7569,
+   "concept_recall": 0.5175855306166921,
+   "image_hit_rate": 0.8159598361738671,
+   "unique_gt_coverage": 0.3669314796425025,
+   "combined_concept_recall": 0.5539769012856831,
+   "combined_image_hit_rate": 0.842911877394636,
+   "combined_vocabulary_coverage": 0.41112214498510424
+  },
+  {
+   "evaluated_images": 7568,
+   "concept_recall": 0.5210361689942288,
+   "image_hit_rate": 0.816992600422833,
+   "unique_gt_coverage": 0.41970241149307336,
+   "combined_concept_recall": 0.5589233005859289,
+   "combined_image_hit_rate": 0.8450052854122622,
+   "combined_vocabulary_coverage": 0.4551051821446896
+  },
+  {
+   "evaluated_images": 7568,
+   "concept_recall": 0.5024494794856094,
+   "image_hit_rate": 0.8039112050739958,
+   "unique_gt_coverage": 0.31259720062208396,
+   "combined_concept_recall": 0.5366984515790395,
+   "combined_image_hit_rate": 0.8308668076109936,
+   "combined_vocabulary_coverage": 0.35666148263348885
+  }
+ ],
+ "aggregate": {
+  "concept_recall": {
+   "mean": 0.517904007765181,
+   "std": 0.012303554942079485,
+   "values": [
+    0.5124588002636783,
+    0.5359900594656963,
+    0.5175855306166921,
+    0.5210361689942288,
+    0.5024494794856094
+   ]
+  },
+  "image_hit_rate": {
+   "mean": 0.8159762426689259,
+   "std": 0.00843998221494028,
+   "values": [
+    0.8152992469282601,
+    0.8277183247456732,
+    0.8159598361738671,
+    0.816992600422833,
+    0.8039112050739958
+   ]
+  },
+  "unique_gt_coverage": {
+   "mean": 0.3869195741696244,
+   "std": 0.04996239453216186,
+   "values": [
+    0.39429444727457974,
+    0.4410723318158826,
+    0.3669314796425025,
+    0.41970241149307336,
+    0.31259720062208396
+   ]
+  },
+  "combined_concept_recall": {
+   "mean": 0.5543412179880082,
+   "std": 0.01314593579408325,
+   "values": [
+    0.5494616567787299,
+    0.5726457797106594,
+    0.5539769012856831,
+    0.5589233005859289,
+    0.5366984515790395
+   ]
+  },
+  "combined_image_hit_rate": {
+   "mean": 0.8422955706722955,
+   "std": 0.007192258371559324,
+   "values": [
+    0.8421191702999076,
+    0.8505747126436781,
+    0.842911877394636,
+    0.8450052854122622,
+    0.8308668076109936
+   ]
+  },
+  "combined_vocabulary_coverage": {
+   "mean": 0.4290157112581053,
+   "std": 0.04777535150075948,
+   "values": [
+    0.44065206316861943,
+    0.4815376833586242,
+    0.41112214498510424,
+    0.4551051821446896,
+    0.35666148263348885
+   ]
+  }
+ }
+}

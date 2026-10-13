@@ -1,0 +1,7 @@
+model,concept_recall_exact,image_hit_rate_exact,vocabulary_coverage_exact,concept_recall_semantic,image_hit_rate_semantic,vocabulary_coverage_semantic
+zeroshot_ramplus_original-images,10.53,27.65,10.45,,,
+zeroshot_ramplus_cropped-images,12.31,31.56,11.38,24.89,53.19,26.59
+zeroshot_siglip2-base_top5,4.46,12.79,19.73,,,
+zeroshot_siglip2-base_top10,6.77,18.73,25.19,,,
+zeroshot_siglip2-so400m_top5,5.51,15.68,22.73,,,
+zeroshot_siglip2-so400m_top10,8.39,22.93,28.89,,,

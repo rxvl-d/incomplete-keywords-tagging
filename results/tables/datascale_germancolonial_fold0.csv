@@ -1,0 +1,17 @@
+backbone,loss,train_percent,concept_recall_exact,image_hit_rate_exact,vocabulary_coverage_exact,concept_recall_semantic,image_hit_rate_semantic,vocabulary_coverage_semantic
+siglip2-base,an,5,18.0,39.58,0.56,21.01,44.55,1.06
+siglip2-base,an,10,17.62,39.57,0.61,21.42,45.61,1.0
+siglip2-base,an,25,31.19,61.88,8.35,35.32,66.65,7.99
+siglip2-base,an,50,38.34,69.43,13.14,42.08,73.0,11.61
+siglip2-base,splc,5,16.35,37.06,0.87,20.43,43.85,1.43
+siglip2-base,splc,10,30.23,60.52,6.47,34.11,65.16,6.42
+siglip2-base,splc,25,38.1,69.1,16.35,42.27,73.29,13.58
+siglip2-base,splc,50,43.66,74.67,23.23,47.7,78.21,17.94
+ramplus-swinl,an,5,17.49,39.66,0.56,20.47,44.55,1.03
+ramplus-swinl,an,10,17.83,39.16,0.51,19.61,41.51,0.97
+ramplus-swinl,an,25,18.12,39.85,0.51,21.32,45.29,0.9
+ramplus-swinl,an,50,53.23,83.92,27.36,56.73,86.06,21.4
+ramplus-swinl,splc,5,18.08,39.81,0.61,22.0,46.66,1.13
+ramplus-swinl,splc,10,38.75,70.83,9.53,43.21,74.92,9.12
+ramplus-swinl,splc,25,54.38,84.81,37.09,58.2,86.88,27.75
+ramplus-swinl,splc,50,59.99,87.54,48.85,63.62,89.51,35.04

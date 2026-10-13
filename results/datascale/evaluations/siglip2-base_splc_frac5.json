@@ -1,0 +1,115 @@
+{
+ "dataset": "testset",
+ "predictions_file": "results/datascale/predictions/siglip2-base_splc_frac5.jsonl.gz",
+ "top_k": null,
+ "strict": {
+  "evaluated_images": 7569,
+  "total_gt_concepts": 22755,
+  "matched_gt_concepts": 3721,
+  "concept_recall": 0.16352450010986597,
+  "images_with_match": 2805,
+  "image_hit_rate": 0.37059056678557273,
+  "unique_gt_concepts": 1963,
+  "unique_gt_matched": 17,
+  "unique_vocabulary_coverage": 0.008660213958227204
+ },
+ "semantic": {
+  "model": "bge",
+  "all_strict_misses": 110074,
+  "strict_misses_with_predictions": 19034,
+  "strict_misses_without_predictions": 91040,
+  "thresholds": {
+   "0.80": {
+    "semantic_rescues": 927,
+    "combined_matched_gt_concepts": 4648,
+    "combined_concept_recall": 0.20426279938475062,
+    "semantic_hit_images": 861,
+    "semantic_only_rescued_images": 514,
+    "combined_images_with_match": 3319,
+    "combined_image_hit_rate": 0.4384991412339807,
+    "semantic_unique_gt_concepts": 28,
+    "semantic_only_new_gt_concepts": 26,
+    "combined_unique_gt_matched": 43,
+    "combined_vocabulary_coverage": 0.014309484193011647
+   },
+   "0.85": {
+    "semantic_rescues": 150,
+    "combined_matched_gt_concepts": 3871,
+    "combined_concept_recall": 0.17011645792133598,
+    "semantic_hit_images": 150,
+    "semantic_only_rescued_images": 78,
+    "combined_images_with_match": 2883,
+    "combined_image_hit_rate": 0.3808957590170432,
+    "semantic_unique_gt_concepts": 4,
+    "semantic_only_new_gt_concepts": 3,
+    "combined_unique_gt_matched": 20,
+    "combined_vocabulary_coverage": 0.0066555740432612314
+   },
+   "0.88": {
+    "semantic_rescues": 19,
+    "combined_matched_gt_concepts": 3740,
+    "combined_concept_recall": 0.16435948143265217,
+    "semantic_hit_images": 19,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 2805,
+    "combined_image_hit_rate": 0.37059056678557273,
+    "semantic_unique_gt_concepts": 1,
+    "semantic_only_new_gt_concepts": 1,
+    "combined_unique_gt_matched": 18,
+    "combined_vocabulary_coverage": 0.005990016638935108
+   },
+   "0.90": {
+    "semantic_rescues": 19,
+    "combined_matched_gt_concepts": 3740,
+    "combined_concept_recall": 0.16435948143265217,
+    "semantic_hit_images": 19,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 2805,
+    "combined_image_hit_rate": 0.37059056678557273,
+    "semantic_unique_gt_concepts": 1,
+    "semantic_only_new_gt_concepts": 1,
+    "combined_unique_gt_matched": 18,
+    "combined_vocabulary_coverage": 0.005990016638935108
+   },
+   "0.92": {
+    "semantic_rescues": 0,
+    "combined_matched_gt_concepts": 3721,
+    "combined_concept_recall": 0.16352450010986597,
+    "semantic_hit_images": 0,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 2805,
+    "combined_image_hit_rate": 0.37059056678557273,
+    "semantic_unique_gt_concepts": 0,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 17,
+    "combined_vocabulary_coverage": 0.005657237936772047
+   },
+   "0.94": {
+    "semantic_rescues": 0,
+    "combined_matched_gt_concepts": 3721,
+    "combined_concept_recall": 0.16352450010986597,
+    "semantic_hit_images": 0,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 2805,
+    "combined_image_hit_rate": 0.37059056678557273,
+    "semantic_unique_gt_concepts": 0,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 17,
+    "combined_vocabulary_coverage": 0.005657237936772047
+   },
+   "0.96": {
+    "semantic_rescues": 0,
+    "combined_matched_gt_concepts": 3721,
+    "combined_concept_recall": 0.16352450010986597,
+    "semantic_hit_images": 0,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 2805,
+    "combined_image_hit_rate": 0.37059056678557273,
+    "semantic_unique_gt_concepts": 0,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 17,
+    "combined_vocabulary_coverage": 0.005657237936772047
+   }
+  }
+ }
+}

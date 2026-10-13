@@ -1,0 +1,115 @@
+{
+ "dataset": "testset",
+ "predictions_file": "results/datascale/predictions/siglip2-base_splc_frac10.jsonl.gz",
+ "top_k": null,
+ "strict": {
+  "evaluated_images": 7569,
+  "total_gt_concepts": 22755,
+  "matched_gt_concepts": 6879,
+  "concept_recall": 0.3023071852340145,
+  "images_with_match": 4581,
+  "image_hit_rate": 0.6052318668252081,
+  "unique_gt_concepts": 1963,
+  "unique_gt_matched": 127,
+  "unique_vocabulary_coverage": 0.06469689251146205
+ },
+ "semantic": {
+  "model": "bge",
+  "all_strict_misses": 106916,
+  "strict_misses_with_predictions": 15876,
+  "strict_misses_without_predictions": 91040,
+  "thresholds": {
+   "0.80": {
+    "semantic_rescues": 883,
+    "combined_matched_gt_concepts": 7762,
+    "combined_concept_recall": 0.34111184355086793,
+    "semantic_hit_images": 838,
+    "semantic_only_rescued_images": 351,
+    "combined_images_with_match": 4932,
+    "combined_image_hit_rate": 0.6516052318668252,
+    "semantic_unique_gt_concepts": 99,
+    "semantic_only_new_gt_concepts": 66,
+    "combined_unique_gt_matched": 193,
+    "combined_vocabulary_coverage": 0.06422628951747088
+   },
+   "0.85": {
+    "semantic_rescues": 184,
+    "combined_matched_gt_concepts": 7063,
+    "combined_concept_recall": 0.31039332014941773,
+    "semantic_hit_images": 182,
+    "semantic_only_rescued_images": 68,
+    "combined_images_with_match": 4649,
+    "combined_image_hit_rate": 0.6142158805654644,
+    "semantic_unique_gt_concepts": 16,
+    "semantic_only_new_gt_concepts": 11,
+    "combined_unique_gt_matched": 138,
+    "combined_vocabulary_coverage": 0.045923460898502494
+   },
+   "0.88": {
+    "semantic_rescues": 56,
+    "combined_matched_gt_concepts": 6935,
+    "combined_concept_recall": 0.30476818281696333,
+    "semantic_hit_images": 55,
+    "semantic_only_rescued_images": 13,
+    "combined_images_with_match": 4594,
+    "combined_image_hit_rate": 0.6069493988637865,
+    "semantic_unique_gt_concepts": 5,
+    "semantic_only_new_gt_concepts": 4,
+    "combined_unique_gt_matched": 131,
+    "combined_vocabulary_coverage": 0.04359400998336106
+   },
+   "0.90": {
+    "semantic_rescues": 26,
+    "combined_matched_gt_concepts": 6905,
+    "combined_concept_recall": 0.3034497912546693,
+    "semantic_hit_images": 26,
+    "semantic_only_rescued_images": 5,
+    "combined_images_with_match": 4586,
+    "combined_image_hit_rate": 0.6058924560708152,
+    "semantic_unique_gt_concepts": 2,
+    "semantic_only_new_gt_concepts": 1,
+    "combined_unique_gt_matched": 128,
+    "combined_vocabulary_coverage": 0.04259567387687188
+   },
+   "0.92": {
+    "semantic_rescues": 13,
+    "combined_matched_gt_concepts": 6892,
+    "combined_concept_recall": 0.3028784882443419,
+    "semantic_hit_images": 13,
+    "semantic_only_rescued_images": 5,
+    "combined_images_with_match": 4586,
+    "combined_image_hit_rate": 0.6058924560708152,
+    "semantic_unique_gt_concepts": 1,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 127,
+    "combined_vocabulary_coverage": 0.04226289517470882
+   },
+   "0.94": {
+    "semantic_rescues": 13,
+    "combined_matched_gt_concepts": 6892,
+    "combined_concept_recall": 0.3028784882443419,
+    "semantic_hit_images": 13,
+    "semantic_only_rescued_images": 5,
+    "combined_images_with_match": 4586,
+    "combined_image_hit_rate": 0.6058924560708152,
+    "semantic_unique_gt_concepts": 1,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 127,
+    "combined_vocabulary_coverage": 0.04226289517470882
+   },
+   "0.96": {
+    "semantic_rescues": 0,
+    "combined_matched_gt_concepts": 6879,
+    "combined_concept_recall": 0.3023071852340145,
+    "semantic_hit_images": 0,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 4581,
+    "combined_image_hit_rate": 0.6052318668252081,
+    "semantic_unique_gt_concepts": 0,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 127,
+    "combined_vocabulary_coverage": 0.04226289517470882
+   }
+  }
+ }
+}

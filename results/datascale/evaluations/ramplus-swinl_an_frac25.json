@@ -1,0 +1,115 @@
+{
+ "dataset": "testset",
+ "predictions_file": "results/datascale/predictions/ramplus-swinl_an_frac25.jsonl.gz",
+ "top_k": null,
+ "strict": {
+  "evaluated_images": 7569,
+  "total_gt_concepts": 22755,
+  "matched_gt_concepts": 4124,
+  "concept_recall": 0.1812348934300154,
+  "images_with_match": 3016,
+  "image_hit_rate": 0.39846743295019155,
+  "unique_gt_concepts": 1963,
+  "unique_gt_matched": 10,
+  "unique_vocabulary_coverage": 0.005094243504839531
+ },
+ "semantic": {
+  "model": "bge",
+  "all_strict_misses": 109671,
+  "strict_misses_with_predictions": 18631,
+  "strict_misses_without_predictions": 91040,
+  "thresholds": {
+   "0.80": {
+    "semantic_rescues": 728,
+    "combined_matched_gt_concepts": 4852,
+    "combined_concept_recall": 0.2132278620083498,
+    "semantic_hit_images": 675,
+    "semantic_only_rescued_images": 412,
+    "combined_images_with_match": 3428,
+    "combined_image_hit_rate": 0.4528999867882151,
+    "semantic_unique_gt_concepts": 17,
+    "semantic_only_new_gt_concepts": 17,
+    "combined_unique_gt_matched": 27,
+    "combined_vocabulary_coverage": 0.008985024958402662
+   },
+   "0.85": {
+    "semantic_rescues": 322,
+    "combined_matched_gt_concepts": 4446,
+    "combined_concept_recall": 0.195385629531971,
+    "semantic_hit_images": 309,
+    "semantic_only_rescued_images": 208,
+    "combined_images_with_match": 3224,
+    "combined_image_hit_rate": 0.42594794556744614,
+    "semantic_unique_gt_concepts": 4,
+    "semantic_only_new_gt_concepts": 4,
+    "combined_unique_gt_matched": 14,
+    "combined_vocabulary_coverage": 0.004658901830282862
+   },
+   "0.88": {
+    "semantic_rescues": 19,
+    "combined_matched_gt_concepts": 4143,
+    "combined_concept_recall": 0.1820698747528016,
+    "semantic_hit_images": 19,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 3016,
+    "combined_image_hit_rate": 0.39846743295019155,
+    "semantic_unique_gt_concepts": 1,
+    "semantic_only_new_gt_concepts": 1,
+    "combined_unique_gt_matched": 11,
+    "combined_vocabulary_coverage": 0.003660565723793677
+   },
+   "0.90": {
+    "semantic_rescues": 19,
+    "combined_matched_gt_concepts": 4143,
+    "combined_concept_recall": 0.1820698747528016,
+    "semantic_hit_images": 19,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 3016,
+    "combined_image_hit_rate": 0.39846743295019155,
+    "semantic_unique_gt_concepts": 1,
+    "semantic_only_new_gt_concepts": 1,
+    "combined_unique_gt_matched": 11,
+    "combined_vocabulary_coverage": 0.003660565723793677
+   },
+   "0.92": {
+    "semantic_rescues": 0,
+    "combined_matched_gt_concepts": 4124,
+    "combined_concept_recall": 0.1812348934300154,
+    "semantic_hit_images": 0,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 3016,
+    "combined_image_hit_rate": 0.39846743295019155,
+    "semantic_unique_gt_concepts": 0,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 10,
+    "combined_vocabulary_coverage": 0.0033277870216306157
+   },
+   "0.94": {
+    "semantic_rescues": 0,
+    "combined_matched_gt_concepts": 4124,
+    "combined_concept_recall": 0.1812348934300154,
+    "semantic_hit_images": 0,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 3016,
+    "combined_image_hit_rate": 0.39846743295019155,
+    "semantic_unique_gt_concepts": 0,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 10,
+    "combined_vocabulary_coverage": 0.0033277870216306157
+   },
+   "0.96": {
+    "semantic_rescues": 0,
+    "combined_matched_gt_concepts": 4124,
+    "combined_concept_recall": 0.1812348934300154,
+    "semantic_hit_images": 0,
+    "semantic_only_rescued_images": 0,
+    "combined_images_with_match": 3016,
+    "combined_image_hit_rate": 0.39846743295019155,
+    "semantic_unique_gt_concepts": 0,
+    "semantic_only_new_gt_concepts": 0,
+    "combined_unique_gt_matched": 10,
+    "combined_vocabulary_coverage": 0.0033277870216306157
+   }
+  }
+ }
+}

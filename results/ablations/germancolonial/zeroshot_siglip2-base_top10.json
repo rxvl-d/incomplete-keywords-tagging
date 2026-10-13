@@ -1,0 +1,16 @@
+{
+ "dataset": "testset",
+ "top_k": 10,
+ "strict": {
+  "evaluated_images": 37843,
+  "total_gt_concepts": 113795,
+  "matched_gt_concepts": 7707,
+  "concept_recall": 0.06772705303396459,
+  "images_with_match": 7087,
+  "image_hit_rate": 0.1872737362259863,
+  "unique_gt_concepts": 3005,
+  "unique_gt_matched": 757,
+  "unique_vocabulary_coverage": 0.2519134775374376
+ },
+ "semantic": null
+}
